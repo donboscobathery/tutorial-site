@@ -1,11 +1,11 @@
 # tutorial-site
 
 This is project of a tutorial site
-
+heloo world
 Requirement Gathering and analysis
 this is an example
 System Analysis
-The Analyst who carries out the system analysis must know what information to gather, where to find it, how to collect it, and what to make of it. The proper use of tools for gathering information is the key to successful analysis. The tools used are the traditional
+
  1) Interview 2) Questionnaire 3) On-site observations
 The method choosed for this project is interview because we need the information from users on what all features can be included in a tutorial website, what all information is unnecessary and what all is lacking in the currently available tutorial websites.
 The people interviewed for this project are students who have visited or has visited these websites, content developers who have probably worked on similar projects.
